@@ -18,3 +18,4 @@ app.listen(3000, () => {
     console.clear()
     console.log('Auth service is running on port 3000')
 })
+
